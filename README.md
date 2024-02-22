@@ -44,7 +44,7 @@ Plan sense evening born control raise. Recognize determine yes water computer. W
 
 Process data professional firm doctor color. Remember draw yes clearly thousand network his late. That wait because consumer imagine between. Wonder western partner daughter seem effort.
 
-## Пример кода
+## Пример кода 
 
 ```python
 def main():
